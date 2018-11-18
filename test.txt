@@ -1,0 +1,1 @@
+{"Shape":[{"getShape":"line","sx":"243","sy":"46","ex":"941","ey":"266"},{"getShape":"circle","sx":"335","sy":"159","ex":"168","ey":"128"},{"getShape":"rect","sx":"282","sy":"120","ex":"436","ey":"165"},{"getShape":"remove","sx":"545","sy":"3","ex":"407","ey":"234"}]}
